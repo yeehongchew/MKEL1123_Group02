@@ -1,11 +1,12 @@
 # Milestone 1 - STM Familiarization 
-**Objective:** 
+**Objective:** Familiarizing NUCLEO-F410RB Board with STM32CubeIDE by blinking the internal LED for 1 second.
 
-## Overview of Milestone 
+## Procedure
+
 
 ## Nucleo-F410RB Development Board
+![WhatsApp Image 2022-04-28 at 1 44 52 PM](https://user-images.githubusercontent.com/64217618/165685517-0cab1161-b673-42d9-9f4b-d8c23b8e26bc.jpeg)
 
-![WhatsApp Image 2022-04-28 at 1 44 52 PM](https://user-images.githubusercontent.com/64217618/165684966-9a2cfa39-4eb3-4363-b91f-468f661b2331.jpeg)
 
 **Youtube Link:**
 
