@@ -11,6 +11,6 @@
 2. Simple description of every milestone is briefly described in this README.md
 
 
-### Milestone 1: STM32 Familiarization
+## Milestone 1: STM32 Familiarization
 **Description:** Blinking the internal LED of STM32F446RE every 1Hz = 1s. 
 
