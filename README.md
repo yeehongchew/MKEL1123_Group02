@@ -1,6 +1,9 @@
 # MKEL1123_Group02
 
 ## Group Members: 
-Chew Yee Hong 
-Elisia Tho Jia Yee 
-Eric Lai Yi Jie 
+
+1. Chew Yee Hong 
+2. Elisia Tho Jia Yee 
+3. Eric Lai Yi Jie 
+
+## TBA 
