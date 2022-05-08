@@ -3,7 +3,7 @@
 2. Simple description of every milestone is briefly described in this README.md
 
 ## Group Members: 
-1. 
+1. ERIC LAI YI JIE (MKE211081)
 2. 
 3. 
 
