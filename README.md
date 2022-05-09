@@ -4,7 +4,7 @@
 
 ## Group Members: 
 1. ERIC LAI YI JIE (MKE211081)
-2. 
+2. CHEW YEE HONG (MKE211074)
 3. ELISIA THO JIA YEE (MKE211108)
 
 ## Milestone 1: STM32 Familiarization
