@@ -5,7 +5,7 @@
 ## Group Members: 
 1. ERIC LAI YI JIE (MKE211081)
 2. 
-3. 
+3. ELISIA THO JIA YEE (MKE211108)
 
 ## Milestone 1: STM32 Familiarization
 **Description:** Blinking the internal LED of STM32F446RE every 1Hz = 1s. 
