@@ -8,9 +8,10 @@
 
 ## Youtube Link: ###  
 [Demo Vid Milestone 1: Group 2](https://youtu.be/jqhI_9lisJs)  
-[STM32IDE CUBE Tutorial](https://www.youtube.com/watch?v=eumKLXNlM0U)
+
 
 ## Reference: ##  
-[Nucleo F410-RB Datasheet(https://www.st.com/content/ccc/resource/technical/document/data_brief/c8/3c/30/f7/d6/08/4a/26/DM00105918.pdf/files/DM00105918.pdf/jcr:content/translations/en.DM00105918.pdf)
+[STM32IDE CUBE Tutorial](https://www.youtube.com/watch?v=eumKLXNlM0U)  
+[Nucleo F410-RB Datasheet](https://www.st.com/content/ccc/resource/technical/document/data_brief/c8/3c/30/f7/d6/08/4a/26/DM00105918.pdf/files/DM00105918.pdf/jcr:content/translations/en.DM00105918.pdf)
  
 
