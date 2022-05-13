@@ -1,6 +1,9 @@
 # Milestone 1 - STM32 Familiarization 
-**Objective:** To familiarize NUCLEO-F410RB Board with STM32CubeIDE by blinking the internal LED for 1 second.
+**Objective:** To familiarize with STM32F4 series microcontrollers through Blinky program
+This milestone is an introduction to STM32F4 series microcontrollers, namely the NUCLEO-F410RB Development Board, demonstrated by the blinking of its LED at 1Hz through a Blinky program in STM32CubeIDE.
 
+## Blinky Program
+The _Blinky Program_ in STM32F4 using STM32CubeIDE is a "hello world" program in STM32 Embedded World, as well as an indication that the STM32CubeIDE based development toolchain is active and ready to use.
 
 ## Nucleo-F410RB Development Board
 ![WhatsApp Image 2022-04-28 at 1 44 52 PM](https://user-images.githubusercontent.com/64217618/165685517-0cab1161-b673-42d9-9f4b-d8c23b8e26bc.jpeg "Nucleo-F410RB")
