@@ -1,5 +1,5 @@
-# Milestone 1 - STM Familiarization 
-**Objective:** Familiarizing NUCLEO-F410RB Board with STM32CubeIDE by blinking the internal LED for 1 second.
+# Milestone 1 - STM32 Familiarization 
+**Objective:** To familiarize NUCLEO-F410RB Board with STM32CubeIDE by blinking the internal LED for 1 second.
 
 
 ## Nucleo-F410RB Development Board
