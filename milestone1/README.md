@@ -1,5 +1,5 @@
 # Milestone 1 - STM32 Familiarization 
-**Objective :** To familiarize with STM32F4 series microcontrollers through Blinky program.  
+**Objective :** To familiarize with STM32F4 series microcontrollers through Blinky program.    
 This milestone is an introduction to STM32F4 series microcontrollers, namely the NUCLEO-F410RB Development Board, demonstrated by the blinking of its LED at 1Hz through a Blinky program in STM32CubeIDE.
 
 ## Blinky Program
