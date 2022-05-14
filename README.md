@@ -7,6 +7,6 @@
 2. CHEW YEE HONG (MKE211074)
 3. ELISIA THO JIA YEE (MKE211108)
 
-## Milestone 1: STM32 Familiarization
-**Description:** Blinking the internal LED of STM32F446RE every 1Hz = 1s. 
+## [Milestone 1: STM32 Familiarization](https://github.com/yeehongchew/MKEL1123_Group02/tree/main/milestone1)
+**Description:** Blinking the internal LED of STM32F446RE at 1Hz.
 
