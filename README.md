@@ -9,5 +9,5 @@
 ## [Milestone 1 - STM32 Familiarization](https://github.com/yeehongchew/MKEL1123_Group02/tree/main/milestone1)
 **Description:** Blinking the internal LED of STM32F446RE at 1Hz.
 
-## [Milestone 5 - Project Documentation]()
+## [Milestone 5 - Project Documentation](https://github.com/yeehongchew/MKEL1123_Group02/blob/main/milestone5/README.md)
 **Description:** Complete documentation of "Image Classification on Freshness of Fruits and Vegetables" using Edge Impulse and LED button.
